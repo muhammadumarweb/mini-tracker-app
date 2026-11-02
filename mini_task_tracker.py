@@ -1,5 +1,5 @@
 """
-Mini Task Tracker
+Mini Task Tracker - PSEB AI Bootcamp 2026
 AI Engineering | Week 1 Assignment AI Engineering
 
 A command-line task management application. Tasks are saved to tasks.json
