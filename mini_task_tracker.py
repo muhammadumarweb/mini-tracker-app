@@ -1,6 +1,6 @@
 """
 Mini Task Tracker
-AI Engineering | Week 1 Assignment
+AI Engineering | Week 1 Assignment AI Engineering
 
 A command-line task management application. Tasks are saved to tasks.json
 after every operation and automatically restored when the application starts.
